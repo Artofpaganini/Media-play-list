@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServicePlayMusicFile</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="name">Name:</string>
+    <string name="singer">Artist:</string>
+    <string name="style">Music Style:</string>
+    <string name="choose_artist">Choose the Artist</string>
+
+</resources>
