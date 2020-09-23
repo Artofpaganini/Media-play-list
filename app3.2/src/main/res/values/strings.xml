@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="choose_artist">Выбрать Исполнителя</string>
+    <string name="choose_style">Выбрать Жанр</string>
+
+    <string name="name">Name</string>
+    <string name="artist">Artist</string>
+    <string name="style">Style</string>
+
+    <string name="arctic_monkeys">Arctic Monkeys</string>
+    <string name="ane">Ane</string>
+    <string name="harley">PJ Harley</string>
+    <string name="the_kills">The kills</string>
+    <string name="black_rebel">Black Rebel</string>
+
+    <string name="rock">Rock</string>
+    <string name="classic">Classic</string>
+
+    <string name="empty">Empty</string>
+    <string name="full_list">Full List</string>
+
+
+</resources>
