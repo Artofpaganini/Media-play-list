@@ -13,7 +13,6 @@ public class MyReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
 
-        Toast.makeText(context, "EBR triggered", Toast.LENGTH_SHORT).show();
 
         intent.setClass(context, NewActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
